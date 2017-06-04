@@ -1,0 +1,47 @@
+html {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.bg {
+  background: url("../../resources/images/building.png");
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  margin-top: 0;
+}
+
+a {
+color: white;
+font-size: 18px;
+}
+
+#topbox a {
+  display: block;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+#foot {
+  font-size: 11px;
+  text-align: left;
+  text-decoration: none;
+  background-color: grey;
+  color: white;
+}
